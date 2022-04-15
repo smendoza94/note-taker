@@ -19,7 +19,7 @@ GIVEN a note-taking application
 ## Uses
 You'll be able to take notes with a title and save them to storage for later use.
 
-![example of note-taker user interface](/assets/img/note-taker-ui.jpg)
+![example of note-taker user interface](/assets/img/note-taker-ui.png)
 
 - - - - 
 
