@@ -24,4 +24,4 @@ You'll be able to take notes with a title and save them to storage for later use
 - - - - 
 
 ## License
-![MIT License](/license.txt)
+Refer to [LICENSE](/LICENSE)
